@@ -7,9 +7,12 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "Temitope | Cybersecurity & Technology",
+  title: "Temitope | Cybersecurity | Web Designer",
   description:
     "Cybersecurity-focused technologist building useful digital systems.",
+  icons: {
+    icon: "/favicon.svg",
+  },
 };
 
 export default function RootLayout({
