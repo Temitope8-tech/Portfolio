@@ -41,7 +41,7 @@ export default function Contact() {
                     </a>
 
                     <a
-                        href="https://github.com/themytea"
+                        href="https://github.com/temitope8-tech"
                         target="_blank"
                         rel="noopener noreferrer"
                         aria-label="GitHub"
