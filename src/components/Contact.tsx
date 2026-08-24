@@ -26,8 +26,8 @@ export default function Contact() {
                 <a
                     href="mailto:temitopeomotolani502@gmail.com"
                     className="button button-primary"
-                >
-                    Get In Touch
+                >    
+                Get in Touch
                 </a>
 
                 <div className="social-links">
