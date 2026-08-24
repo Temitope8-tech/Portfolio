@@ -26,8 +26,8 @@ export default function Contact() {
                 <a
                     href="mailto:temitopeomotolani502@gmail.com"
                     className="button button-primary"
-                >    
-                Get in Touch
+                >
+                    Get in Touch
                 </a>
 
                 <div className="social-links">
@@ -41,7 +41,7 @@ export default function Contact() {
                     </a>
 
                     <a
-                        href="YOUR_GITHUB_URL"
+                        href="https://github.com/themytea"
                         target="_blank"
                         rel="noopener noreferrer"
                         aria-label="GitHub"
