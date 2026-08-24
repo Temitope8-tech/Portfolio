@@ -3,7 +3,7 @@ export default function Hero() {
     <section className="hero">
       <div className="hero-content">
         <p className="hero-eyebrow">
-          CYBERSECURITY · WEB DEVELOPMENT · WEB DESIGN
+          CYBERSECURITY · WEB DEVELOPMENT · WEBSITE DESIGNER
         </p>
 
         <h1>
