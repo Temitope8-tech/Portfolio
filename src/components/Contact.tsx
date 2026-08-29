@@ -32,7 +32,7 @@ export default function Contact() {
 
                 <div className="social-links">
                     <a
-                        href="YOUR_LINKEDIN_URL"
+                        href="https://www.linkedin.com/in/temitope-omotolani-626082432/"
                         target="_blank"
                         rel="noopener noreferrer"
                         aria-label="LinkedIn"
